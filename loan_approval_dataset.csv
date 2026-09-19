@@ -1,0 +1,21 @@
+ApplicantIncome,CoapplicantIncome,LoanAmount,CreditScore,LoanTerm,PropertyArea,EmploymentStatus,Education,Married,LoanApproved
+50000,20000,150000,750,360,Urban,Employed,Graduate,Yes,Yes
+35000,10000,120000,680,360,Semiurban,Employed,Graduate,No,Yes
+25000,5000,100000,620,360,Rural,Self-Employed,Graduate,No,No
+70000,25000,200000,780,360,Urban,Employed,Graduate,Yes,Yes
+30000,0,90000,580,360,Rural,Employed,Not Graduate,No,No
+45000,15000,130000,720,360,Semiurban,Employed,Graduate,Yes,Yes
+20000,5000,80000,550,360,Rural,Self-Employed,Not Graduate,No,No
+80000,30000,250000,800,360,Urban,Employed,Graduate,Yes,Yes
+40000,10000,110000,650,360,Semiurban,Employed,Graduate,No,Yes
+28000,5000,95000,590,360,Rural,Employed,Not Graduate,No,No
+60000,20000,180000,760,360,Urban,Employed,Graduate,Yes,Yes
+32000,8000,100000,610,360,Rural,Self-Employed,Graduate,No,No
+55000,18000,160000,730,360,Semiurban,Employed,Graduate,Yes,Yes
+22000,4000,75000,540,360,Rural,Employed,Not Graduate,No,No
+75000,25000,220000,790,360,Urban,Employed,Graduate,Yes,Yes
+38000,12000,115000,660,360,Semiurban,Employed,Graduate,No,Yes
+27000,3000,85000,570,360,Rural,Self-Employed,Not Graduate,No,No
+65000,22000,190000,770,360,Urban,Employed,Graduate,Yes,Yes
+42000,12000,125000,690,360,Semiurban,Employed,Graduate,Yes,Yes
+24000,5000,90000,560,360,Rural,Employed,Not Graduate,No,No
